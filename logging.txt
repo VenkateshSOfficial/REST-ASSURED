@@ -1,0 +1,245 @@
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": 23.907656,
+        "lng": -45.67889,
+        "latitude": 0.0,
+        "longitude": 0.0
+    },
+    "accuracy": "23.567",
+    "name": "A-house",
+    "phone_number": "English-EN",
+    "address": "1st main road",
+    "types": [
+        "milk shop",
+        "beeda shop"
+    ],
+    "website": "www.1st.com\t23.567",
+    "language": "91-1234567"
+}
+HTTP/1.1 200 OK
+Date: Wed, 19 Jun 2024 13:45:00 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "83adea8fc0b016231075dd678009cc49",
+    "scope": "APP",
+    "reference": "a95fc954f218ca9774fb89069a452f36a95fc954f218ca9774fb89069a452f36",
+    "id": "a95fc954f218ca9774fb89069a452f36"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": 23.907656,
+        "lng": -45.67889,
+        "latitude": 0.0,
+        "longitude": 0.0
+    },
+    "accuracy": "23.567",
+    "name": "A-house",
+    "phone_number": "English-EN",
+    "address": "1st main road",
+    "types": [
+        "milk shop",
+        "beeda shop"
+    ],
+    "website": "www.1st.com",
+    "language": "91-1234567"
+}
+HTTP/1.1 200 OK
+Date: Wed, 19 Jun 2024 13:45:01 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "0312bac6b1e9a1f10518b636281fd54c",
+    "scope": "APP",
+    "reference": "bc3ffd0dce1d84fbaacc88e218a2756abc3ffd0dce1d84fbaacc88e218a2756a",
+    "id": "bc3ffd0dce1d84fbaacc88e218a2756a"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": 23.907656,
+        "lng": -45.67889,
+        "latitude": 0.0,
+        "longitude": 0.0
+    },
+    "accuracy": "25.678",
+    "name": "B-house",
+    "phone_number": "Russian-RS",
+    "address": "2nd main road",
+    "types": [
+        "milk shop",
+        "beeda shop"
+    ],
+    "website": "www.2nd.com",
+    "language": "91-23456"
+}
+HTTP/1.1 200 OK
+Date: Wed, 19 Jun 2024 13:45:01 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "eb8862d1529e571142228319a90314ea",
+    "scope": "APP",
+    "reference": "004721d9e4196b94bb029a3bb4496d70004721d9e4196b94bb029a3bb4496d70",
+    "id": "004721d9e4196b94bb029a3bb4496d70"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": 23.907656,
+        "lng": -45.67889,
+        "latitude": 0.0,
+        "longitude": 0.0
+    },
+    "accuracy": "12.678",
+    "name": "C-house",
+    "phone_number": "Italian-IT",
+    "address": "3rd main road",
+    "types": [
+        "milk shop",
+        "beeda shop"
+    ],
+    "website": "www.3rd.com",
+    "language": "91-98765"
+}
+HTTP/1.1 200 OK
+Date: Wed, 19 Jun 2024 13:45:01 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "3f30cc40b876cc1da7df3b9925815d8e",
+    "scope": "APP",
+    "reference": "63a56153294eb9c2d70eacbe9e0c4fed63a56153294eb9c2d70eacbe9e0c4fed",
+    "id": "63a56153294eb9c2d70eacbe9e0c4fed"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": 23.907656,
+        "lng": -45.67889,
+        "latitude": 0.0,
+        "longitude": 0.0
+    },
+    "accuracy": "456.744",
+    "name": "D-house",
+    "phone_number": "Candian-CA",
+    "address": "4th road",
+    "types": [
+        "milk shop",
+        "beeda shop"
+    ],
+    "website": "www.4th.com",
+    "language": "91-765433"
+}
+HTTP/1.1 200 OK
+Date: Wed, 19 Jun 2024 13:45:01 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "3a3c68b7729281a42322259e589ce1ec",
+    "scope": "APP",
+    "reference": "dee8c3577f7d02a3fd30d831a080637bdee8c3577f7d02a3fd30d831a080637b",
+    "id": "dee8c3577f7d02a3fd30d831a080637b"
+}
